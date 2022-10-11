@@ -1,0 +1,6 @@
+name: DeanGuns
+version: 1.0
+main: vinnydgf.deanphysics.DeanPhysics
+author: vinnydgf
+commands:
+    ph:
