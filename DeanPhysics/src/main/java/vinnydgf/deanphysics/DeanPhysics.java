@@ -33,7 +33,7 @@ public class DeanPhysics extends JavaPlugin implements Listener {
 	private PluginManager manager;
 	final float armorBlockSize = 0.220f;
 	final float armorBlockSizeH = armorBlockSize / 2;
-	// testedeea
+	// testedeeae
 	
 /*	btDefaultCollisionConfiguration collisionConfig = new btDefaultCollisionConfiguration();
 	btCollisionDispatcher dispatcher = new btCollisionDispatcher(collisionConfig);
